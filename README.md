@@ -4,10 +4,11 @@ I'm a Cloud DevOps Engineer/Infrastructure Engineer, who is passionate about lea
 
 I have started intro to programming courses to gain knowledge that would allow me to better assist businesses.
 
-![](jenkins-logo.png)
-![](docker_logo.png)
-![](kubernetes-logo.png)
+![](Cert.png)
 ![](Redhat.gif)
 ![](aws-logo.png)
 ![](redhatopenshift.png)
 ![](Azure.png)
+![](kubernetes-logo.png)
+![](jenkins-logo.png)
+![](docker_logo.png)
