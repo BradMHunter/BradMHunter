@@ -4,6 +4,12 @@ I'm a Cloud DevOps Engineer/Infrastructure Engineer, who is passionate about lea
 
 I have started intro to programming courses to gain knowledge that would allow me to better assist businesses.
 
+- Virtualization technologies - VMWare, Hyper V
+- Operating Systems - Windows, Linux
+- Cloud Platforms -AWS, Azure
+- Certificates - VMWare VCP, MCSE, MCSA, Nanodegree Cloud Devops, MS Specialist HyperV and Systems Center, Exchange, Linux Essentials, DevOps Essentials
+
+
 ![](Cert.PNG)
 ![](Redhat.gif)
 ![](aws-logo.png)
