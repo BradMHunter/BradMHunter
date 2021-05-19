@@ -4,7 +4,7 @@ I'm a Cloud DevOps Engineer/Infrastructure Engineer, who is passionate about lea
 
 I have started intro to programming courses to gain knowledge that would allow me to better assist businesses.
 
-![](Cert.png)
+![](Cert.PNG)
 ![](Redhat.gif)
 ![](aws-logo.png)
 ![](redhatopenshift.png)
