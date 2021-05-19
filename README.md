@@ -1,4 +1,4 @@
-#Hi, I'm Brad
+# Hi, I'm Brad :wave:
 
 I'm a Cloud DevOps Engineer
 
